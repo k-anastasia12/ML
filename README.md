@@ -9,4 +9,5 @@
 - Python (numpy, pandas, sklearn)
 - Предобработка данных (SimpleImputer, get_dummies)
 - Machine Learning (DecisionTree, GradientBoosting, ансамбли)
+
 В task#3.zip находятся все таблицы с анализируемыми данными, и сам Colab Notebook Поиск_аномалий.ipynb.
